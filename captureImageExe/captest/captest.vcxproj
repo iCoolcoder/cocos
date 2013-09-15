@@ -14,7 +14,7 @@
     <ProjectGuid>{CB8A447D-F90D-4DB4-9D2D-D281F1A664D8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>captest</RootNamespace>
-    <ProjectName>captureImage</ProjectName>
+    <ProjectName>captureImageExe</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
